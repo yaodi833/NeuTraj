@@ -1,6 +1,6 @@
 # NeuTraj
 
-## This is a seed guided neural metric learning approach for calculating trajectory similarities.
+This is a seed guided neural metric learning approach for calculating trajectory similarities.
 
 ## Require Package
 Pytorch, Numpy, trajectory_distance
