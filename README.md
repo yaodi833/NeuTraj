@@ -8,7 +8,7 @@ Pytorch, Numpy, trajectory_distance
 ## Running Procedures
 
 ### Create Folders
-Before running the code, we need first create 3 empty folders:
+Before running the code, you need first create 3 empty folders:
 
 data: Place of the original data which is organized to a trajectory list. Each trajectory in it is a list of coordinate tuples (lon, lat).
 
