@@ -2,7 +2,7 @@
 
 This is a seed guided neural metric learning approach for calculating trajectory similarities.
 
-## Require Package
+## Require Packages
 Pytorch, Numpy, trajectory_distance
 
 ## Running Procedures
