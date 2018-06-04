@@ -17,7 +17,7 @@ features: This folder contains the features that generated after the preprocessi
 model: It is used for placing the NeuTraj model of each training epoch.
 
 ### Download Date
-Due to the file limit of Github, we put the dataset on other sites. You should first download the data and put it in the data folder. The toy dataset can be download at: 
+Due to the file limit of Github, we put the dataset on other sites. You should first download the data and put it in the data folder. The toy dataset can be download at:  https://www.dropbox.com/s/ejoo1j21vjq7t7a/toy_trajs?dl=0
 
 ### Preprocessing
 Run preprocessing.py. It filters the original data and maps the coordinates to grids. After such process, we can generate coor_seq, grid_seq, and index_seq. Then, we calculate the pair-wise distance under the distance measure and get the seed_distance.
