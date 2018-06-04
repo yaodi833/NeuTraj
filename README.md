@@ -16,7 +16,7 @@ features: This folder contains the features that generated after the preprocessi
 
 model: It is used for placing the NeuTraj model of each training epoch.
 
-### Download Date
+### Download Data
 Due to the file limit of Github, we put the dataset on other sites. You should first download the data and put it in the data folder. The toy dataset can be download at:  https://www.dropbox.com/s/ejoo1j21vjq7t7a/toy_trajs?dl=0
 
 ### Preprocessing
