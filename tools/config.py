@@ -29,7 +29,7 @@ test_num = 100
 
 # Model Parameters
 d = 128
-stard_unit = False
+stard_unit = False # It controls the type of recurrent unit (standrad cells or SAM argumented cells)
 incell = True
 recurrent_unit = 'GRU' #GRU, LSTM or SimpleRNN
 spatial_width  = 2
