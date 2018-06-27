@@ -31,7 +31,7 @@ test_num = 100
 d = 128
 stard_unit = False
 incell = True
-recurrent_unit = 'LSTM' #LSTM or SimpleRNN
+recurrent_unit = 'GRU' #GRU, LSTM or SimpleRNN
 spatial_width  = 2
 
 gird_size = [1100, 1100]
