@@ -8,9 +8,9 @@ Pytorch, Numpy, trajectory_distance
 ## Running Procedures
 
 ### Create Folders
-Before running the code, you need first create 3 empty folders:
+Please create 3 empty folders:
 
-*`data`: Place of the original data which is organized to a trajectory list. Each trajectory in it is a list of coordinate tuples (lon, lat).
+*`data`: Path of the original data which is organized to a trajectory list. Each trajectory in it is a list of coordinate tuples (lon, lat).
 
 *`features`: This folder contains the features that generated after the preprocessing.py. It contains four files: coor_seq, grid_seq, index_seq and seed_distance. 
 
