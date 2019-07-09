@@ -225,7 +225,7 @@ class NeuTrajTrainer(object):
                 optimizer.step()
 
                 optim_time = time.time()
-                if  not in_cell_update:
+                if not in_cell_update:
                     spatial_net.spatial_memory_update(inputs_arrays, inputs_len_arrays)
                 batch_end = time.time()
                 if (i + 1) % print_batch == 0:
